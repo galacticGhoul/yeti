@@ -1,6 +1,10 @@
 # yeti
 
-yeti to the rescue! 
+yeti to the rescue!
+
+## Community
+
+Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before participating in the community.
 
 ## License
 
